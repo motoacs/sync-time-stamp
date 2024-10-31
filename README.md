@@ -96,12 +96,6 @@ Contributions are welcome! Please open an issue or submit a pull request on GitH
 
 Use this tool at your own risk. Always ensure you have backups of your files before modifying them.
 
-
----
-
-
-以下は、インタラクティブモードでの使用方法を詳しく説明するように編集したREADME.mdです。
-
 ---
 
 # 日本語
